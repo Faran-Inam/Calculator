@@ -40,6 +40,10 @@ __🚀 How to Use:__
 
 - Start calculating! You can either click the buttons with your mouse or use your keyboard.
 
+🌐 Live Demo:
+
+- https://faran-inam.github.io/Calculator/
+
 __📂 Project Structure:__
 
 - `index.html:` The main HTML file that defines the structure of the calculator.
