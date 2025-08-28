@@ -42,7 +42,7 @@ __🚀 How to Use:__
 
 🌐 Live Demo:
 
-- https://faran-inam.github.io/Calculator/
+- https://faraninamdev.github.io/Calculator/
 
 __📂 Project Structure:__
 
